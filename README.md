@@ -8,7 +8,7 @@
 **Warning** : The SliM project has been abandoned (last release was 2013, the project homepage is down), and is not fully compatible with *systemd*, including *logind sessions*. Consider using a different *Display manager* or *Xinitrc*.
 
 ### What is SLiMski?
-SLiMski is a fork of SLiM used by antiX Linux. Due to antiX's lack of *systemd* or *elogind*, a neutral display manager is necessary.
+SLiMski is a fork of SLiM used by antiX Linux. Due to antiX's lack of *systemd* or *elogind*, an init-neutral display manager is necessary.
 
 ### How to use
 
